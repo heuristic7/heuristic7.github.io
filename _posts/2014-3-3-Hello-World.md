@@ -18,6 +18,3 @@ The supplied data is usually composed of "training data" and "validation data". 
 
 It is very helpful to approach certain problems with a probabilistic perspective so as to tease out various relationships. As an example, if one desires to parse out the causal factors of an input vector 'x', one could assume that the causal factors were an unknown hidden vector 'h'. Then one can create a model that then attempts to learn a vector 'h' for each of the training samples. The 'h' vector is then used to create the labeled output for each of the inputs 'x', as in a labeled supervised learning setting. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
