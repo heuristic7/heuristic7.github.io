@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on Machine Learning, Deep Learning
 ---
 
-Here are a few thoughts on Machine Learning and Deep Learning that I have encountered and gathered. Hopefully, it will help your journey through this amazing world of Computer Science, Math and Data Science, and many many more. A certain mathematical rigour is expected of Machine Learning practitioners and so it helps to brush up on essentials of probability theory, discrete math, and statistics. 
+Here are a few thoughts on Machine Learning and Deep Learning that I have encountered and gathered. Hopefully, it will help your journey through this amazing world of Computer Science, Mathematics and Data Science, and many many more. A certain mathematical rigour is expected of Machine Learning practitioners and so it helps to brush up on essentials of probability theory, discrete math, and statistics. 
 
 Remember the following structure that Deep Learning and Neural Networks are fully contained within Machine Learning. 
 
